@@ -1,0 +1,17 @@
+a:hover{
+  text-decoration: none;
+}
+
+button{
+  background-color: #255CAF;
+  color:white;
+  height: 100%;
+  border: none;
+  width: auto;
+  padding-right: 20px;
+  padding-left: 20px;  
+}
+
+span{
+  font-size: 20px;
+}
